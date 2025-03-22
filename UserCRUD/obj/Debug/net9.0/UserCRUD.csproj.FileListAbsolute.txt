@@ -1,0 +1,15 @@
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\bin\Debug\net9.0\UserCRUD.exe
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\bin\Debug\net9.0\UserCRUD.deps.json
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\bin\Debug\net9.0\UserCRUD.runtimeconfig.json
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\bin\Debug\net9.0\UserCRUD.dll
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\bin\Debug\net9.0\UserCRUD.pdb
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\UserCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\UserCRUD.AssemblyInfoInputs.cache
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\UserCRUD.AssemblyInfo.cs
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\UserCRUD.csproj.CoreCompileInputs.cache
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\UserCRUD.dll
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\refint\UserCRUD.dll
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\UserCRUD.pdb
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\UserCRUD.genruntimeconfig.cache
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\ref\UserCRUD.dll
+C:\Users\filip\Downloads\.net Projects\UserCRUD\UserCRUD\obj\Debug\net9.0\UserCRUD.sourcelink.json
