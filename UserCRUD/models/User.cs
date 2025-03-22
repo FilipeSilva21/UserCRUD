@@ -2,21 +2,21 @@
 
 public class User
 {
-    public string name { get; set; }
+    public string Name { get; set; }
     
-    public int age { get; set; }
+    public int Age { get; set; }
 
-    public string email { get; set; }
+    public string Email { get; set; }
 
     public User(string name, int age, string email)
     {
-        this.name = name;
-        this.age = age;
-        this.email = email;
+        this.Name = name;
+        this.Age = age;
+        this.Email = email;
     }
     
     public override string ToString()
     {
-        return $"Nome: {name}, Email: {email}, Idade: {age}";
+        return $"Nome: {Name}, Email: {Email}, Idade: {Age}";
     }
 }

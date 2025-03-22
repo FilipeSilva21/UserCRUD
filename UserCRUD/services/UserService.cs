@@ -53,7 +53,7 @@ public class UserService
     {
         try
         {
-            var foundUsers = Users.Where(u => u.name.Contains(name, StringComparison.OrdinalIgnoreCase)).ToList();
+            var foundUsers = Users.Where(u => u.Name.Contains(name, StringComparison.OrdinalIgnoreCase)).ToList();
 
             if (foundUsers.Count == 0)
             {
