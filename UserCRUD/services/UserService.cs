@@ -17,7 +17,7 @@ public class UserService
             Console.WriteLine("Usuário cadastrado com sucesso!");
         }
         
-        catch (Exception runTimeException)
+        catch (Exception)
         {
             Console.WriteLine("Erro ao cadastrar o usuario");
             throw;
@@ -42,7 +42,7 @@ public class UserService
             }
         }
         
-        catch (Exception runTimeException)
+        catch (Exception)
         {
             Console.WriteLine("Erro ao listar os usuarios");
             throw;
@@ -71,11 +71,10 @@ public class UserService
             {
                 Console.WriteLine(user);
             }
-
             Console.WriteLine();
         }
 
-        catch (Exception runTimeException)
+        catch (Exception)
         {
             Console.WriteLine("Erro ao procurar o usuario");
             throw;
