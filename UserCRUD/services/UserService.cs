@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using UserCRUD.models;
+﻿using UserCRUD.models;
 
 namespace UserCRUD.services;
 
