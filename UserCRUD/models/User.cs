@@ -1,6 +1,6 @@
 ﻿namespace UserCRUD.models;
 
-public class User
+public class User // Classe de entidade do usuario com seus atributos
 {
     public string Name { get; set; }
     
@@ -15,7 +15,7 @@ public class User
         this.Email = email;
     }
     
-    public override string ToString()
+    public override string ToString() // Metodo de conversao do objeto para o tipo string 
     {
         return $"Nome: {Name}, Email: {Email}, Idade: {Age}";
     }
